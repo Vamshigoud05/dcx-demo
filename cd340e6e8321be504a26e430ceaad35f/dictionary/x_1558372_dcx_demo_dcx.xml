@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0215ca228361be504a26e430ceaad3e8" label="dcx " max_length="40" name="x_1558372_dcx_demo_dcx" type="collection">
+        <element label="email" max_length="40" name="email" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
